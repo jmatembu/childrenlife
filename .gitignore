@@ -117,3 +117,11 @@ Thumbs.db
 !wp-content/themes/alone-child/
 !wp-content/themes/alone/
 !wp-content/gallery/
+
+!wp-includes/
+!wp-admin/
+!*.php
+!license.txt
+!readme.html
+wp-config.php
+deploy.php
